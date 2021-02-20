@@ -8,4 +8,5 @@ scanf("%d%d",&a&b);
 c=a+b;
 printf(%d",c);
 printf("Welcome to  Git and Github workshop");
+printf("Welocome Day 2");
 }
